@@ -1,6 +1,6 @@
 To run this project first setup eclipse in your computer
 
-Download Servlet and tomcat server
+Download and Install Servlet and tomcat server
 
 - Servlet and tomcat download tutorial :- https://youtu.be/OuBUUkQfBYM?si=5VwYqs57AVA32Tpm
 
